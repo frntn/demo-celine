@@ -23,7 +23,7 @@ theme = "split"
   
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "images/celine-fronton.jpg"
       position = "center center"
     
     [params.visual.video]
