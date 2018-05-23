@@ -37,15 +37,15 @@ theme = "split"
       heading = "Renseignements"
 
       [[params.links.list1.link]]
-        text = "Mes Offres"
+        text = "Offres"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Leurs témoignages"
+        text = "Témoignages"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Votre Blog"
+        text = "Blog"
         url = "#"
 
   # Links List #2
@@ -58,11 +58,11 @@ theme = "split"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "S'accorder"
+        text = "Épuisement"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Personnalisé"
+        text = "Personnel"
         url = "#"
 
   # Links List #3
@@ -72,7 +72,7 @@ theme = "split"
 
       [[params.links.list3.link]]
         text = "Facebook"
-        url = "#"
+        url = "https://www.facebook.com/celixirs"
 
       [[params.links.list3.link]]
         text = "Instagram"
