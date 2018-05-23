@@ -37,7 +37,7 @@ theme = "split"
       heading = "Renseignements"
 
       [[params.links.list1.link]]
-        text = "Votre accompagnement"
+        text = "Mes Offres"
         url = "#"
 
       [[params.links.list1.link]]
@@ -45,7 +45,7 @@ theme = "split"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Mon Blog"
+        text = "Votre Blog"
         url = "#"
 
   # Links List #2
