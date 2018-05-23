@@ -53,15 +53,15 @@ theme = "split"
     [params.links.list2]
       heading = "Accompagnement"
 
-      [[params.links.list3.link]]
+      [[params.links.list2.link]]
         text = "Prénatal"
         url = "#"
 
-      [[params.links.list3.link]]
+      [[params.links.list2.link]]
         text = "S'accorder"
         url = "#"
 
-      [[params.links.list3.link]]
+      [[params.links.list2.link]]
         text = "Personnalisé"
         url = "#"
 
@@ -70,14 +70,14 @@ theme = "split"
     [params.links.list3]
       heading = "Réseau"
 
-      [[params.links.list2.link]]
+      [[params.links.list3.link]]
         text = "Facebook"
         url = "#"
 
-      [[params.links.list2.link]]
+      [[params.links.list3.link]]
         text = "Instagram"
         url = "#"
 
-      [[params.links.list2.link]]
+      [[params.links.list3.link]]
         text = "Pinterest"
         url = "#"
