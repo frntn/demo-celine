@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Célixirs"
-theme = "split"
+theme = "kiera"
 
 [params]
 
@@ -16,7 +16,7 @@ theme = "split"
   [params.content]
 
     name = "Céline Fronton"
-    tagline = "Maman. Femme. Accomplie."
+    tagline = "Maman. Femme. Accordée."
     bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
 
   [params.visual]
@@ -37,15 +37,15 @@ theme = "split"
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
+        text = "Mon Offre d'accompagnement"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Email"
+        text = "Vos interviews d'experts"
         url = "#"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
+        text = "Leurs histoires"
         url = "#"
 
   # Links List #2
@@ -54,7 +54,7 @@ theme = "split"
       heading = "Social"
 
       [[params.links.list2.link]]
-        text = "Twitter"
+        text = "Facebook"
         url = "#"
 
       [[params.links.list2.link]]
@@ -62,7 +62,7 @@ theme = "split"
         url = "#"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
+        text = "Pinterest"
         url = "#"
 
   # Links List #3
