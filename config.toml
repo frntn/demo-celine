@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Célixirs"
-theme = "kiera"
+theme = "split"
 
 [params]
 
