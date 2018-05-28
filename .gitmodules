@@ -2,3 +2,6 @@
 	path = themes/split
 	url = https://github.com/frntn/hugo-split-theme.git
 	branch = celixirs
+[submodule "themes/landing"]
+	path = themes/landing
+	url = https://github.com/crakjie/landing-page-hugo.git
