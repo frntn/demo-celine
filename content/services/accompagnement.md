@@ -1,5 +1,6 @@
 ---
 Title: Accompagnement
+Img: dog.png
 Category: Services
 Draft: false
 ---
