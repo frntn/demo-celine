@@ -15,7 +15,7 @@ canonifyUrls = "true"
 
 [[params.social]]
     title = "email"
-    icon = "envelope-o"
+    icon = "envelope"
     url = "mailto:celixirs@gmail.com"
 [[params.social]]
     title = "twitter"
