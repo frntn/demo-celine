@@ -2,6 +2,7 @@ baseURL = "http://example.org/"
 languageCode = "fr-fr"
 title = "Célixirs"
 theme = "landing"
+canonifyUrls = "true"
 
 [params]
 
@@ -12,72 +13,15 @@ theme = "landing"
 
   favicon = "favicon.ico"
 
-  # Section - Content
-  [params.content]
-
-    name = "Céline Fronton"
-    tagline = "Maman. Femme. Accordée."
-    bio = "Donec at libero id lectus porta dapibus eu in nibh. Cras id mauris sapien. Fusce viverra [luctus urna](#) ac rutrum. Duis semper elit eu mi facilisis eleifend. Donec semper, [ipsum in](#) malesuada congue, [purus sem](#) ullamcorper massa, sit amet lacinia nibh enim sed massa."
-
-  [params.visual]
-  
-    [params.visual.image]
-      enable = true
-      file = "images/celine-fronton.jpg"
-      position = "center center"
-    
-    [params.visual.video]
-      enable = true
-  
-  # Links
-  #
-  # Links List #1
-  [[params.links]]
-    [params.links.list1]
-      heading = "Renseignements"
-
-      [[params.links.list1.link]]
-        text = "Offres"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Témoignages"
-        url = "#"
-
-      [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
-
-  # Links List #2
-  [[params.links]]
-    [params.links.list2]
-      heading = "Accompagnement"
-
-      [[params.links.list2.link]]
-        text = "Prénatal"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Épuisement"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Personnel"
-        url = "#"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Réseau"
-
-      [[params.links.list3.link]]
-        text = "Facebook"
-        url = "https://www.facebook.com/celixirs"
-
-      [[params.links.list3.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Pinterest"
-        url = "#"
+[[params.social]]
+    title = "email"
+    icon = "envelope-o"
+    url = "mailto:celixirs@gmail.com"
+[[params.social]]
+    title = "twitter"
+    icon = "twitter"
+    url = "https://twitter.com/celixirs"
+[[params.social]]
+    title = "facebook"
+    icon = "facebook"
+    url = "http://facebook.com/celixirs"
